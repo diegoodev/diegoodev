@@ -1,1 +1,2 @@
-![Metrics](https://metrics.lecoq.io/diegoodev?template=classic&languages=1&gists=1&stars=1&languages.limit=8&languages.colors=github&languages.threshold=5%25&stars.limit=4&config.timezone=Europe%2FIstanbul)
+<h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"> </h1>
+Merhaba!
