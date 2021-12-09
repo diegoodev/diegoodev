@@ -1,6 +1,11 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"> </h1>
-# Merhaba, ben Alp.
+<h2>Hakkımda!
 
+```py
+name = "Alp",
+sex = "Erkek",
+job = "Öğrenci",
+age = "16"
+```
 # Github İstatistiklerim;
                                                   
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=diegoodev&show_icons=true&hide_title=true&theme=merko">
