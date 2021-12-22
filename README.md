@@ -13,4 +13,4 @@ age = "16"
 
 # Sosyal Medya;
 
-Discord Accounts: [dgô ∾#2020](https://discord.com/users/912424175581429872) | [Instagram](https://www.instagram.com/jr_lamina.dll/)
+Discord Accounts: [diegô#2020](https://discord.com/users/912424175581429872) | [Instagram](https://www.instagram.com/jr_lamina.dll/)
